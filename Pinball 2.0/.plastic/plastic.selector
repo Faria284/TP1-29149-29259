@@ -1,0 +1,4 @@
+repository "Pinball 2.0@Faria13@cloud"
+  path "/"
+    br "/main"
+    co "/main"
